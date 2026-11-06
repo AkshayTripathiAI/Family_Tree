@@ -1,0 +1,246 @@
+[
+    {
+        "name": "0",
+        "display_name": "Arjun",
+        "sex": "M",
+        "top_level": true
+    },
+    {
+        "name": "1",
+        "display_name": "Dev",
+        "sex": "M",
+        "age": "27",
+        "mother": "3",
+        "father": "2",
+        "proband": true
+    },
+    {
+        "name": "2",
+        "display_name": "Kabir",
+        "sex": "M",
+        "age": "56",
+        "mother": "5",
+        "father": "4"
+    },
+    {
+        "name": "3",
+        "display_name": "Asha",
+        "sex": "F",
+        "age": "56",
+        "mother": "7",
+        "father": "6"
+    },
+    {
+        "name": "4",
+        "display_name": "Rohan",
+        "sex": "M",
+        "age": "89",
+        "mother": "0"
+    },
+    {
+        "name": "5",
+        "display_name": "Diya",
+        "sex": "F",
+        "age": "83",
+        "mother": "0"
+    },
+    {
+        "name": "6",
+        "display_name": "Vikram",
+        "sex": "M",
+        "age": "84",
+        "mother": "0",
+        "status": "1"
+    },
+    {
+        "name": "7",
+        "display_name": "Kavya",
+        "sex": "F",
+        "age": "91",
+        "mother": "0",
+        "status": "1"
+    },
+    {
+        "name": "8",
+        "display_name": "Neel",
+        "sex": "M",
+        "age": "7",
+        "mother": "3",
+        "father": "2"
+    },
+    {
+        "name": "9",
+        "display_name": "Meera",
+        "sex": "F",
+        "age": "17",
+        "mother": "3",
+        "father": "2"
+    },
+    {
+        "name": "10",
+        "display_name": "Aarav",
+        "sex": "M",
+        "mother": "7",
+        "father": "6",
+        "noparents": true
+    },
+    {
+        "name": "11",
+        "display_name": "Ishaan",
+        "sex": "M",
+        "age": "17",
+        "mother": "3",
+        "father": "10"
+    },
+    {
+        "name": "12",
+        "display_name": "Kunal",
+        "sex": "M",
+        "age": "32",
+        "mother": "5",
+        "father": "4"
+    },
+    {
+        "name": "13",
+        "display_name": "Manav",
+        "sex": "M",
+        "age": "54",
+        "mother": "5",
+        "father": "4"
+    },
+    {
+        "name": "14",
+        "display_name": "Pranav",
+        "sex": "M",
+        "age": "45",
+        "mother": "5",
+        "father": "4"
+    },
+    {
+        "name": "15",
+        "display_name": "Nisha",
+        "sex": "F",
+        "age": "46",
+        "mother": "5",
+        "father": "4"
+    },
+    {
+        "name": "16",
+        "display_name": "Pooja",
+        "sex": "F",
+        "age": "42",
+        "mother": "5",
+        "father": "4"
+    },
+    {
+        "name": "17",
+        "display_name": "Riya",
+        "sex": "F",
+        "age": "52",
+        "mother": "5",
+        "father": "4"
+    },
+    {
+        "name": "18",
+        "display_name": "Sana",
+        "sex": "F",
+        "mother": "5",
+        "father": "4",
+        "noparents": true
+    },
+    {
+        "name": "19",
+        "display_name": "Rahul",
+        "sex": "M",
+        "age": "12",
+        "mother": "18",
+        "father": "13"
+    },
+    {
+        "name": "24",
+        "display_name": "Samar",
+        "sex": "M",
+        "age": "37",
+        "mother": "7",
+        "father": "6"
+    },
+    {
+        "name": "25",
+        "display_name": "Tara",
+        "sex": "F",
+        "age": "48",
+        "mother": "7",
+        "father": "6"
+    },
+    {
+        "name": "26",
+        "display_name": "Uma",
+        "sex": "F",
+        "age": "48",
+        "mother": "7",
+        "father": "6"
+    },
+    {
+        "name": "27",
+        "display_name": "Tarun",
+        "sex": "M",
+        "mother": "7",
+        "father": "6",
+        "noparents": true
+    },
+    {
+        "name": "28",
+        "display_name": "Varun",
+        "sex": "M",
+        "age": "14",
+        "mother": "26",
+        "father": "27"
+    },
+    {
+        "name": "29",
+        "display_name": "Vani",
+        "sex": "F",
+        "mother": "0"
+    },
+    {
+        "name": "30",
+        "display_name": "Zoya",
+        "sex": "F",
+        "age": "51",
+        "mother": "29",
+        "father": "6"
+    },
+    {
+        "name": "31",
+        "display_name": "Yash",
+        "sex": "M",
+        "mother": "29",
+        "father": "6",
+        "noparents": true
+    },
+    {
+        "name": "32",
+        "display_name": "Aditya",
+        "sex": "M",
+        "age": "6",
+        "mother": "30",
+        "father": "31"
+    },
+    {
+        "name": "33",
+        "display_name": "Ira",
+        "sex": "F",
+        "age": "29",
+        "mother": "3",
+        "father": "2",
+        "noparents": true
+    },
+    {
+        "name": "34",
+        "display_name": "Nikhil",
+        "sex": "M",
+        "age": "8",
+        "mother": "33",
+        "father": "1"
+    }
+]
